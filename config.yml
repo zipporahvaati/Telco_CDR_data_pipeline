@@ -1,0 +1,11 @@
+
+CDR_Pipeline_Project/
+│
+├─ CDR_Raw/                 # Folder simulating raw CDR files
+│   ├─ 2025-12-25.csv
+│   └─ 2025-12-26.csv
+│
+├─ read_cdr.py              # Python ETL script
+├─ requirements.txt         # Python dependencies
+├─ README.md                # Project description
+└─ .gitignore               # To ignore sensitive files
