@@ -12,7 +12,7 @@ for file_name in os.listdir(raw_folder):
 
         df = pd.read_csv(file_path)
 
-        # 👇 ADD THIS LINE
+        # ADD THIS LINE
         print("Columns found:", df.columns)
 
         # Stop here temporarily
