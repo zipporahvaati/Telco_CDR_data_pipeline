@@ -7,7 +7,7 @@ raw_folder = "CDR_Raw"  # Make sure this folder exists and has your CSVs
 
 # PostgreSQL connection details
 db_user = "postgres"
-db_pass = "Dev%40ti2016"   # @ replaced with %40
+db_pass = "your password here"
 db_host = "localhost"
 db_port = "5432"
 db_name = "telco_cdr"
